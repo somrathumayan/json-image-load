@@ -3,18 +3,18 @@
         "id": 1,
         "title":"This is Image 1",
         "alt": "Image 1",
-        "img": "./assets/images/1.jpg"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFBBaKpdo7-wYNrgzpKVr1Jpp52aZs-ejJw&s"
     },
     {
         "id": 2,
         "title":"This is Image 2",
         "alt": "Image 2",
-        "img": "./assets/images/2.jpg"
+        "img": "https://i.natgeofe.com/k/6496b566-0510-4e92-84e8-7a0cf04aa505/red-fox-portrait_3x4.jpg"
     },
     {
         "id": 3,
         "title":"This is Image 3",
         "alt": "Image 3",
-        "img": "./assets/images/3.jpg"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnI33utT_AfatFvwqr9LLt599wJoIriqyIw&s"
     }
 ]
